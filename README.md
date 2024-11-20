@@ -41,9 +41,16 @@ I am an app developer and a current student at Uva Wellassa University, pursuing
 ---
 
 ## 📊 **GitHub Stats**
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&hide_border=true" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -51,3 +58,22 @@ I am an app developer and a current student at Uva Wellassa University, pursuing
 ## 💬 **Languages**
 - **Sinhala** (Native)  
 - **English** (Professional Working Proficiency)  
+
+---
+
+## 🌐 **Connect With Me**
+<div align="center">
+  <a href="https://linkedin.com/in/mrdesh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:deshan.t.dissanayaka@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+---
+
+## 🖥️ **Visitor Count**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Visitor Count" />
+</div>
