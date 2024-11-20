@@ -42,15 +42,22 @@ I am an app developer and a current student at Uva Wellassa University, pursuing
 
 ## 📊 **GitHub Stats**
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrDeshan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeshan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Most Used Languages" />
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🔥 **GitHub Streak**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDeshan&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+## 🌟 **Contribution Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MrDeshan&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
 </div>
 
 ---
@@ -75,5 +82,5 @@ I am an app developer and a current student at Uva Wellassa University, pursuing
 
 ## 🖥️ **Visitor Count**
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=MrDeshan&style=flat-square&color=blue" alt="Visitor Count" />
 </div>
