@@ -57,7 +57,7 @@ I am an app developer and a current student at Uva Wellassa University, pursuing
 
 ## 🌟 **Contribution Graph**
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MrDeshan&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-contribution-graph.ez4o.com/?username=MrDeshan&theme=gruvbox-light" alt="GitHub Contribution Graph" />
 </div>
 
 ---
